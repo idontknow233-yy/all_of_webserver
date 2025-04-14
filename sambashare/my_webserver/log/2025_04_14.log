@@ -1,0 +1,9 @@
+2025-04-14 02:44:11.681490 [info] : ========== Server init ==========
+2025-04-14 02:44:11.681509 [info] : Port:1316, OpenLinger: false
+2025-04-14 02:44:11.681517 [info] : Listen Mode: ET, OpenConn Mode: ET
+2025-04-14 02:44:11.681521 [info] : LogSys level: 1
+2025-04-14 02:44:11.681524 [info] : srcDir: /home/idontknow233/sambashare/my_webserver/resources/
+2025-04-14 02:44:11.681527 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2025-04-14 02:44:11.681531 [info] : ========== Server start ==========
+2025-04-14 02:44:58.665537 [info] : Client[6](192.168.88.1:49911) in, userCount:1
+2025-04-14 02:44:58.665746 [info] : Client[6] in!

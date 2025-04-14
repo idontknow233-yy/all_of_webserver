@@ -1,0 +1,42 @@
+2025-04-09 07:43:30.644873 [info] : ========== Server init ==========
+2025-04-09 07:43:30.645768 [info] : Port:1316, OpenLinger: false
+2025-04-09 07:43:30.645783 [info] : Listen Mode: ET, OpenConn Mode: ET
+2025-04-09 07:43:30.645789 [info] : LogSys level: 1
+2025-04-09 07:43:30.645794 [info] : srcDir: /home/idontknow233/sambashare/my_webserver/resources/
+2025-04-09 07:43:30.645799 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2025-04-09 07:43:30.645804 [info] : ========== Server start ==========
+2025-04-09 07:43:52.822756 [info] : Client[6](192.168.88.1:62926) in, userCount:1
+2025-04-09 07:43:52.822873 [info] : Client[6] in!
+2025-04-09 07:43:52.822891 [info] : Client[7](192.168.88.1:62670) in, userCount:2
+2025-04-09 07:43:52.822898 [info] : Client[7] in!
+2025-04-09 07:43:53.103241 [info] : Client[8](192.168.88.1:63438) in, userCount:3
+2025-04-09 07:43:53.103453 [info] : Client[8] in!
+2025-04-09 07:43:56.587343 [info] : Client[7] quit!
+2025-04-09 07:43:56.587747 [info] : Client[7](192.168.88.1:62670) quit, UserCount:2
+2025-04-09 07:43:56.587770 [info] : Client[8] quit!
+2025-04-09 07:43:56.587926 [info] : Client[8](192.168.88.1:63438) quit, UserCount:1
+2025-04-09 07:43:56.587941 [info] : Client[6] quit!
+2025-04-09 07:43:56.588048 [info] : Client[6](192.168.88.1:62926) quit, UserCount:0
+2025-04-09 07:43:56.962003 [info] : Client[6](192.168.88.1:1743) in, userCount:1
+2025-04-09 07:43:56.962362 [info] : Client[6] in!
+2025-04-09 07:43:56.962812 [info] : Client[7](192.168.88.1:1999) in, userCount:2
+2025-04-09 07:43:56.963273 [info] : Client[7] in!
+2025-04-09 07:44:06.611168 [info] : Client[7] quit!
+2025-04-09 07:44:06.613292 [info] : Client[7](192.168.88.1:1999) quit, UserCount:1
+2025-04-09 07:44:06.613503 [info] : Client[6] quit!
+2025-04-09 07:44:06.614174 [info] : Client[6](192.168.88.1:1743) quit, UserCount:0
+2025-04-09 07:44:14.119090 [info] : Client[6](192.168.88.1:5839) in, userCount:1
+2025-04-09 07:44:14.119189 [info] : Client[6] in!
+2025-04-09 07:44:14.119401 [info] : Client[7](192.168.88.1:6095) in, userCount:2
+2025-04-09 07:44:14.119419 [info] : Client[7] in!
+2025-04-09 07:44:16.625495 [info] : Client[7] quit!
+2025-04-09 07:44:16.626099 [info] : Client[7](192.168.88.1:6095) quit, UserCount:1
+2025-04-09 07:44:16.626137 [info] : Client[6] quit!
+2025-04-09 07:44:16.626383 [info] : Client[6](192.168.88.1:5839) quit, UserCount:0
+2025-04-09 07:44:17.825294 [info] : Client[6](192.168.88.1:7375) in, userCount:1
+2025-04-09 07:44:17.825369 [info] : Client[6] in!
+2025-04-09 07:44:17.825381 [info] : Client[7](192.168.88.1:7631) in, userCount:2
+2025-04-09 07:44:17.825388 [info] : Client[7] in!
+2025-04-09 07:44:26.648451 [info] : Client[7] quit!
+2025-04-09 07:44:26.649561 [info] : Client[7](192.168.88.1:7631) quit, UserCount:1
+2025-04-09 07:44:26.649746 [info] : Client[6] quit!
